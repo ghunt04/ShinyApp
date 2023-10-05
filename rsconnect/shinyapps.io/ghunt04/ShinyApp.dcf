@@ -1,0 +1,11 @@
+name: ShinyApp
+title: ShinyApp
+username:
+account: ghunt04
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9484186
+bundleId: 7693596
+url: https://ghunt04.shinyapps.io/ShinyApp/
+asMultiple: FALSE
+asStatic: FALSE
